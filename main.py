@@ -9,7 +9,7 @@ jadval = """ --- --- ---
 
 wins = ["123", "147", "159", "753", "789", "456", "369", "258"]
 
-x_inputs = ""
+x_inputs = "asdfdasfasd"
 o_inputs = ""
 
 winners = False
